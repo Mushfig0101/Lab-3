@@ -10,10 +10,10 @@
   <p><big><big>Lorem ipsum dolor sit amet</big></big></p>
 
   <p><big>Lorem</big> ipsum dolor sit amet, consectetuer adipiscing elit, 
-  sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat 
-  volutpat. <big>Ut</big> wisis enim ad minim veniam, quis nostrud 
-  exerci tution ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo 
-  consequat.</p>
-
+<p><big>Lorem</big> ipsum dolor sit amet, consectetuer adipiscing elit, 
+<p><big>Lorem</big> ipsum dolor sit amet, consectetuer adipiscing elit, 
+<p><big>Lorem</big> ipsum dolor sit amet, consectetuer adipiscing elit, 
+<p><big>Lorem</big> ipsum dolor sit amet, consectetuer adipiscing elit, 
+  
  </body>
 </html>
